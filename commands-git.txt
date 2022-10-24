@@ -1,4 +1,4 @@
-Cloner un repo : "git clone "adresse du fichier""
+Cloner un repo : "git clone "adresse du fichier"
 3 commandes pour push : 1) ajouter "git add "nom du fichier"" 
                         2) commit : "git commit -m "commentaire""
                         3) push : "git push"
